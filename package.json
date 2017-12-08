@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tjdolphin23/Bamazon/issues"
   },
-  "homepage": "https://github.com/tjdolphin23/Bamazon#readme"
+  "homepage": "https://github.com/tjdolphin23/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
 }
